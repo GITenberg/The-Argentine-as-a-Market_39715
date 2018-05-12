@@ -1,0 +1,28 @@
+_repo: The-Argentine-as-a-Market_39715
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39715-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Watson, Nowell Lake
+    alias: Watson, N. L.
+    birthdate: 1883
+    gutenberg_agent_id: '40171'
+    url: http://www.gutenberg.org/2009/agents/40171
+description: ''
+gutenberg_issued: '2012-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39715'
+  lccn: 09000292
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HC'
+- !lcsh 'Argentina -- Commerce'
+- !lcsh 'Argentina -- Economic conditions'
+title: The Argentine as a Market
+url: http://www.gutenberg.org/ebooks/39715
